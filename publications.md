@@ -105,7 +105,7 @@ A full listing of papers can be found in <a href="https://scholar.google.com.sg/
     Relational Network via Cascade CRF for Video Language Grounding.</a></span><br/>
 
   <span class = "postlower">
-    <strong style="font-weight:bold">Tong Zhang</strong>, Xiankai Lu, Haoyu Zhang, Xiankai Nie, Yilong Yin, Jian Shen.
+    <strong style="font-weight:bold">Tong Zhang</strong>, Xiankai Lu, Haoyu Zhang, Xiankai Nie, Yilong Yin, Jianbing Shen.
 
     <strong style="font-size:90%; color: #1E6F09; padding-top: 0.3em; float:right; padding-right: .5em; font-weight:bold">
       IEEE TMM 2023
